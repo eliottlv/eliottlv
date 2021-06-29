@@ -17,3 +17,4 @@
 - Sur [Matrix/Element](https://element.io/) : `@eliott:matrix.eliott.cc` (*serveur Matrix perso*)
 - Sur le [Fediverse](https://fr.wikipedia.org/wiki/Fediverse) : `@eliott@social.eliott.cc` (*serveur Pleroma perso*)
 - Via un [formulaire de contact](https://about.eliott.cc/contact)
+- [Preuve Keyoxide ✅](https://keyoxide.org/2FD14B276D31D6D7F25DB9CAD6DDAFD0BE54DD94)
